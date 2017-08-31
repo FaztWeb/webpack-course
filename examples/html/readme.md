@@ -1,0 +1,2 @@
+- [HTML PLUGIN documentation](https://github.com/jantimon/html-webpack-plugin)
+- [ejs](https://github.com/tj/ejs)
