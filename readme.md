@@ -16,7 +16,7 @@ this a webpak course that focused on webpack version 3
     - to build for production: `-p`
   - to import a file: `require("./miFile.js")`
   - install and require modules, fuctions , and so on
-  7. instalar loaders: `npm intall css-loader style-loader --save-dev`
+  7. instalar loaders: `npm install css-loader style-loader --save-dev`
   8. crear archivo de configuracion: `webpack.config.js` y ejecutar: `webpack`
   9. estructurar contenido
   10. instalar webpack-dev-server: `npm install webpack-dev-server --save-dev`
